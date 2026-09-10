@@ -1,14 +1,10 @@
 ---
-slug: ARCafé @ HHU
+slug: arcafe-at-hhu
 title: ARCafé @ HHU — In-Person Hands-On ARC Sessions
 category: Meeting
 audience: [Users]
 description: |
   **Bring your data, bring your questions, and let's work on your ARC together!**
-  Starting Thursday, October 15, join us every week for the ARCafé — an informal, hands-on working session where you can work with your own Annotated Research Context (ARC) and get direct support from data stewards.
-  Whether you are just getting started or are already working with ARCs, ARCafé is open to everyone. Bring your questions, challenges, or current datasets, and use the session to make real progress, explore solutions, and troubleshoot together.
-  New to ARCs? No problem — our data stewards will be there to guide you through the first steps and help you get started.
-
 when:
   - 
     start: 2026-10-15T10:00:00
@@ -53,5 +49,7 @@ registration:
 
 - Please bring your own laptop. If you don't have a laptop, we will try to provide one.
 
-
+Starting Thursday, October 15, join us every week for the ARCafé — an informal, hands-on working session where you can work with your own Annotated Research Context (ARC) and get direct support from data stewards.
+Whether you are just getting started or are already working with ARCs, ARCafé is open to everyone. Bring your questions, challenges, or current datasets, and use the session to make real progress, explore solutions, and troubleshoot together.
+  New to ARCs? No problem — our data stewards will be there to guide you through the first steps and help you get started.
 We look forward to seeing you at ARCafé!
