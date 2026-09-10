@@ -3,8 +3,7 @@ slug: arcafe-at-hhu
 title: ARCafé @ HHU — In-Person Hands-On ARC Sessions
 category: Meeting
 audience: [Users]
-description: |
-  **Bring your data, bring your questions, and let's work on your ARC together!**
+description: Bring your data, bring your questions, and let's work on your ARC together!
 when:
   - 
     start: 2026-10-15T10:00:00
