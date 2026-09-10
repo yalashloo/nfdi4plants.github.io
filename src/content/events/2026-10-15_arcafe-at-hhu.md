@@ -33,23 +33,21 @@ location:
 image: ~/assets/images/events/arcafe.png
 registration:
   description: Please reserve or cancel your slot latest one day before each session.
+  seats: 8
   url: https://terminplaner.dfn.de/bookings/00147594-8819-4f92-84cc-fdb33cdf301c
 ---
 
-## 📅 Dates
+Join us for the ARCafé — an informal, hands-on working session where you can work with your own Annotated Research Context (ARC) and get direct support from data stewards. Whether you are just getting started or are already working with ARCs, ARCafé is open to everyone. Bring your ARCs, questions, challenges, or current datasets, and use the session to make real progress, explore solutions, and troubleshoot together.
 
-- Every Thursday from 10 am - 12 pm
-- Starting October 15
+New to ARCs? No problem — our data stewards will be there to guide you through the first steps and help you get started.
+We look forward to seeing you at ARCafé!
 
 ## ☕ What we provide
 
-- Coffee, tea, drinks and pizza
+There will be coffee, tea, drinks and pizza.
+Please bring your own coffee mug.
 
 ## 💻 Laptops
 
-- Please bring your own laptop. If you don't have a laptop, we will try to provide one.
-
-Starting Thursday, October 15, join us every week for the ARCafé — an informal, hands-on working session where you can work with your own Annotated Research Context (ARC) and get direct support from data stewards.
-Whether you are just getting started or are already working with ARCs, ARCafé is open to everyone. Bring your questions, challenges, or current datasets, and use the session to make real progress, explore solutions, and troubleshoot together.
-  New to ARCs? No problem — our data stewards will be there to guide you through the first steps and help you get started.
-We look forward to seeing you at ARCafé!
+- Please bring your own laptop with eduroam wifi setup.
+- If you don't have a laptop, we will try to provide one.
