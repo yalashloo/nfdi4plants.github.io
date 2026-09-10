@@ -26,9 +26,10 @@ when:
   
 mode: OfflineEventAttendanceMode
 tutors:
- - Data Stewards
+  - HHU Data Stewards of CEPLAS & MibiNet
 location:
-  name: HHU, Building 22.07, Room U1.23 
+  name: HHU, Building 22.07, Room U1.23
+  url: https://link.mazemap.com/pZk7CNnm
 image: ~/assets/images/events/arcafe.png
 registration:
   description: Please reserve or cancel your slot latest one day before each session.
