@@ -34,7 +34,7 @@ image: ~/assets/images/events/arcafe.png
 registration:
   description: Please reserve or cancel your slot latest one day before each session.
   seats: 8
-  url: https://terminplaner.dfn.de/bookings/00147594-8819-4f92-84cc-fdb33cdf301c
+  url: https://terminplaner.dfn.de/public/bookings/00147594-8819-4f92-84cc-fdb33cdf301c
 ---
 
 Join us for the ARCafé — an informal, hands-on working session where you can work with your own Annotated Research Context (ARC) and get direct support from data stewards. Whether you are just getting started or are already working with ARCs, ARCafé is open to everyone. Bring your ARCs, questions, challenges, or current datasets, and use the session to make real progress, explore solutions, and troubleshoot together.
