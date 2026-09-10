@@ -29,7 +29,7 @@ when:
     start: 2026-11-19T10:00:00
     end: 2026-11-19T12:00:00
   
-mode: In-personEventAttendanceMode
+mode: OfflineEventAttendanceMode
 tutors:
  - Data Stewards
 location:
